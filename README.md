@@ -38,7 +38,7 @@ Review Odyssey is a dynamic web scraping tool designed to extract user reviews f
 
 1. **Run the Streamlit application:**
    ```bash
-   streamlit run app.py
+   streamlit run bs.py
    ```
 
 2. **Open the provided URL** in your browser.
