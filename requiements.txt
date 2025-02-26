@@ -1,0 +1,6 @@
+streamlit
+pandas
+json
+selenium
+webdriver_manager
+bs4
