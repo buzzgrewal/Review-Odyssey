@@ -16,7 +16,7 @@ Review Odyssey is a dynamic web scraping tool designed to extract user reviews f
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/review-odyssey.git
+   git clone https://github.com/buzzgrewal/review-odyssey.git
    cd review-odyssey
    ```
 
