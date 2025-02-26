@@ -1,8 +1,5 @@
 # Review-Odyssey: Chart Your Course Through the Sea of Opinions.
 
-# Review Odyssey
-
-**Chart Your Course Through the Sea of Opinions**
 
 Review Odyssey is a dynamic web scraping tool designed to extract user reviews from IMDb and similar review-based websites. It leverages Selenium to interact with dynamically loaded content, BeautifulSoup for efficient HTML parsing, and Streamlit for an intuitive, interactive interface. Whether you're a data enthusiast or a developer looking to analyze user opinions, Review Odyssey makes it easy to collect, view, and download review data.
 
